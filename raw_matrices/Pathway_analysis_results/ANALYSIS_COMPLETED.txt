@@ -1,0 +1,4 @@
+Pathway analysis completed successfully.
+Working directory: /Users/manuelsanchez/Desktop/Bioinformatica/Segundo/TFM/count_matrix/raw_matrices
+Results directory: /Users/manuelsanchez/Desktop/Bioinformatica/Segundo/TFM/count_matrix/raw_matrices/Pathway_analysis_results
+Date: 2026-08-06 15:13:15.005253
